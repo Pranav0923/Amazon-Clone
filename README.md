@@ -1,18 +1,80 @@
-# amazon-clone
- Amazon Clone Project is build  using HTML and CSS, highlighting that it aims to replicate the core features and user experience of the original website.
+# 🛒 Amazon Clone
 
-This Amazon clone  have a similar layout and structure to the original Amazon website. It will consist of a header, main content section, and footer, only home Page is clone.
+A responsive Amazon-inspired eCommerce website built using **HTML and CSS**.
+This project replicates the layout and user interface of the Amazon homepage to demonstrate frontend web development skills.
 
-In the header section, there is a navigation bar at the top of the page. It will include the Amazon logo on the left-hand side, followed by various navigation links
-such as "Search Bar", "home and returns", "language", "Cart", "sign in", "location".
+---
 
-The main content section is a central area of the webpage. It will display various products in a grid or list format including there images, names and see more options.
+## 🚀 Features
 
-The footer section will contain links  such as "About Us," "Contact Us," "Privacy Policy," and "Terms of Service." 
+* Amazon-style homepage layout
+* Navigation bar with search bar
+* Product category sections
+* Grid-based product display
+* Responsive design for different screen sizes
+* Header and footer similar to Amazon
 
-The styling of this Amazon clone will be similar to the original website. It will use a combination of colors such as Amazon's signature orange, black, and white.
+---
 
-Provided all images required for this project. Create a folder and add html, css file and images on visual studio code.
+## 🛠️ Technologies Used
 
+* HTML5
+* CSS3
+* Visual Studio Code
 
+---
 
+## 📂 Project Structure
+
+Amazon-Clone
+│
+├── index.html
+├── style.css
+├── amazon_logo.png
+├── hero_image.jpg
+├── box1_image.jpg
+├── box2_image.jpg
+├── box3_image.jpg
+├── box4_image.jpg
+└── README.md
+
+---
+
+## 💻 How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/Pranav0923/Amazon-Clone.git
+
+2. Open the project folder.
+
+3. Run the project by opening **index.html** in your browser.
+
+---
+
+## 🌐 Live Demo
+
+You can view the project here:
+
+https://pranav0923.github.io/Amazon-Clone/
+
+---
+
+## 🎯 Learning Outcomes
+
+* Building responsive webpage layouts
+* Styling with CSS
+* Creating structured web pages
+* Using Git and GitHub for project hosting
+
+---
+
+## 👨‍💻 Author
+
+**Pranav**
+
+GitHub: https://github.com/Pranav0923
+
+---
+
+⭐ If you like this project, consider giving it a star!
